@@ -17,7 +17,7 @@
 		<input type="file" name="file" />
 		<input type="submit" value="提交">
 	</form>
-<a href="download.do">asdas</a>
+<a href="download.do">按时打算打打</a>
 
 </body>
 </html>
